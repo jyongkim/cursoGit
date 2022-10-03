@@ -1,3 +1,3 @@
 function comenzar(){
-    alert("VAMOS A ELLO!!!")
+    document.getElementsByTagName("body")[0].style("background-color: red;");
 }
