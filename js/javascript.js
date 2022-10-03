@@ -1,3 +1,3 @@
 function comenzar(){
-    document.getElementsByTagName("body")[0].style("background-color: red;");
+    document.getElementsByTagName("body")[0].style.backgroundColor = "red";
 }
