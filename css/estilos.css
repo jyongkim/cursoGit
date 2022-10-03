@@ -1,7 +1,12 @@
 @charset "utf-8";
 
 body {
-    background-color: blue;
-    font-weight: bold;
-    color: red;
+    background-color: black;
+    color: yellow;
+}
+
+#container {
+    width: 400px;
+    margin: auto;
+    text-align: center;
 }
